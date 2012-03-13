@@ -1,0 +1,42 @@
+body{
+    background-image: url(back2.jpg);
+/*    background-color: #937CA3;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    text-align: center;
+}
+body,td,th,button,select{
+    color: #7E2217;
+    font-weight: bold;
+}
+div.error{
+    color: #F62817;
+    font-weight: bold;
+    text-align: left;
+}
+body.side{
+    background-color: #E0FFFF;
+    background-size: 1020%;
+    color: #C68E17;               
+    text-align: left;
+}
+td.side,th.side{
+    color: #7F5A58;
+}
+p.side,a.side{
+    font-size: 20px;
+    font-weight: bold;
+    color: #2233FF;
+    font-position: center;       
+}
+h2.side{
+    font-size: 30px;
+    font-position: center;
+    color: #992288;
+}
+font.rtop{
+    font-size: 25px;
+    color:  #009933;
+    font-weight: bold;
+}
